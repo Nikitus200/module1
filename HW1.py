@@ -1,4 +1,4 @@
-example = "Mercedes-Benz"
+example = "Mercedes-Ben"
 print(example[0])
 print(example[-1])
 print(example[6:])
